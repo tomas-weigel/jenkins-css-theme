@@ -12,7 +12,7 @@
 
 #build-pipeline-plugin-content .PENDING,
 #build-pipeline-plugin-content .MANUAL {
-    background-color: #9E9E9E;
+    background-color: #dedede;
 }
 
 #build-pipeline-plugin-content .rounded {
