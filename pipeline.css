@@ -1,3 +1,21 @@
 #build-pipeline-plugin-content div.pipeline-wrapper {
     background-color: transparent;
 }
+
+#build-pipeline-plugin-content .SUCCESS {
+    background-color: #00CCB6;
+}
+
+#build-pipeline-plugin-content .FAILURE {
+    background-color: #ef2929;
+}
+
+#build-pipeline-plugin-content .PENDING,
+#build-pipeline-plugin-content .MANUAL {
+    background-color: #9E9E9E;
+}
+
+#build-pipeline-plugin-content .rounded {
+    -webkit-box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
+}
