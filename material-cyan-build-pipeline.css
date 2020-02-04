@@ -1,3 +1,3 @@
-div.pipeline-wrapper {
-    background-color: none;
+#build-pipeline-plugin-content div.pipeline-wrapper {
+    background-color: transparent;
 }
